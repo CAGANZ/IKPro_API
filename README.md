@@ -60,7 +60,7 @@ Onion Architecture’da domain kuralları merkezde tutulur, bağımlılıklar i�
 - **Frontend:** React.js, Tailwind CSS
 - **Veritabanı:** SQL Server  
 
-##Projenin Frontend Reposuna https://github.com/CAGANZ/IKPro_UI adresinden ulaşabilirsiniz.
+Projenin Frontend Reposuna https://github.com/CAGANZ/IKPro_UI adresinden ulaşabilirsiniz.
 ---
 
 ## Kurulum
