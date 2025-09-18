@@ -2,9 +2,8 @@
 ## Back-end Projesi Reposu
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-purple)
-![React](https://img.shields.io/badge/React-18-blue)
 ![SQL%20Server](https://img.shields.io/badge/SQL%20Server-DB-red)
-![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06b6d4)
+
 
 Çoklu şirket (multi-tenant) yapıda **Admin**, **Şirket Yöneticisi** ve **Çalışan** rollerine sahip; taleplerin ve personel süreçlerinin merkezî olarak yönetildiği bir web uygulaması.
 
@@ -21,10 +20,7 @@
 - [Kurulum](#kurulum)
   - [Gereksinimler](#gereksinimler)
   - [Backend Kurulumu](#backend-kurulumu)
-    
-- [Proje Yapısı (özet)](#proje-yapısı-özet)
-- [Yol Haritası](#yol-haritası)
-- [Lisans](#lisans)
+
 
 ---
 
